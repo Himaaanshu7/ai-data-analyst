@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-[**Open DataLens AI →**](https://himaaanshu7-ai-data-analyst-app-main.streamlit.app)
+[**Open DataLens AI →**](https://datalens-ai.streamlit.app)
 
 ---
 
