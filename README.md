@@ -122,18 +122,6 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## Deploying to Streamlit Cloud
-
-1. Push this repo to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io) → New app → select this repo
-3. In **Advanced settings → Secrets**, add:
-   ```toml
-   GROQ_API_KEY = "gsk_your_key_here"
-   ```
-4. Deploy — done.
-
----
-
 ## Project Status
 
 Built as a portfolio-quality data science project by **Himanshu Mishra**.
