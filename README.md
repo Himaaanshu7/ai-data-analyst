@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-Coming soon — deploy to [Streamlit Community Cloud](https://streamlit.io/cloud) for free.
+[**Open DataLens AI →**](https://himaaanshu7-ai-data-analyst-app-main.streamlit.app)
 
 ---
 
